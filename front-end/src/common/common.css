@@ -1,0 +1,36 @@
+/* *** NAVBAR *** */
+
+.nav-container {
+  background-color: #020202;
+  padding: 0.5% 2%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  color: #cc0000ca;
+  text-decoration: none;
+  font-size: 2rem;
+}
+
+.logo:hover {
+  color:#ff2f2f;
+}
+
+.navbar-list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 23%;
+}
+
+.navbar-link {
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: #cc0000ca;
+}
+
+.navbar-link:hover {
+  color: #ff2f2f;
+}
